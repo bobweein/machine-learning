@@ -2,4 +2,3 @@
 *.csv
 test.py
 *.txt
-!test1.txt
