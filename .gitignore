@@ -1,4 +1,4 @@
 *.md
-*.csv
+#*.csv
 test.py
 *.txt
